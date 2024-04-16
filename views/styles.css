@@ -1,0 +1,21 @@
+#allbody{
+	padding-top: 5%;
+}
+
+h1{
+	text-align: center;
+	padding: 5% 0;
+}
+#imprimir{
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;	
+}
+#imprimir p{
+margin: 40px;
+}
+#alertaDNI{
+	margin-top: 10px;
+	display: none;
+}
